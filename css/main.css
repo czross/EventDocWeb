@@ -1,0 +1,17 @@
+#img1 {
+	background-color: gray;
+	margin-left: 20%;
+}
+
+#title {
+	text-align: center;
+	color: red;
+	opacity: 0.8;
+	font-size: 40px;
+	font-family: "Arial Italic", "Arial", "sans serif";
+}
+
+#slogan {
+	text-align: center;
+}
+
